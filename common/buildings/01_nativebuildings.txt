@@ -49,7 +49,7 @@ native_palisade = {
 		fort_level = 1
 	}
 	government_specific = yes
-	influencing_fort = yes
+	influencing_fort = no
 	
 	onmap = yes
 	

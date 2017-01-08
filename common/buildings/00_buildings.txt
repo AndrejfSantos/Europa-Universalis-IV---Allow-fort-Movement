@@ -473,7 +473,7 @@ fort_15th = {
 	}
 	
 	onmap = yes
-	influencing_fort = yes
+	influencing_fort = no
 	
 	ai_will_do = {
 		factor = 3000 #Lots of logic in code instead, that multiplies with this value
@@ -625,7 +625,7 @@ fort_16th = {
 
 	onmap = yes
 	
-	influencing_fort = yes
+	influencing_fort = no
 	
 	ai_will_do = {
 		factor = 3000 #Lots of logic in code instead, that multiplies with this value
@@ -1049,7 +1049,7 @@ fort_17th = {
 
 	onmap = yes
 	
-	influencing_fort = yes
+	influencing_fort = no
 	
 	ai_will_do = {
 		factor = 3000 #Lots of logic in code instead, that multiplies with this value
@@ -1362,7 +1362,7 @@ fort_18th = {
 
 	onmap = yes
 	
-	influencing_fort = yes
+	influencing_fort = no
 	
 	ai_will_do = {
 		factor = 3000 #Lots of logic in code instead, that multiplies with this value
